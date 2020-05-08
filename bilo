@@ -1,0 +1,172 @@
+For website
+
+<link rel="stylesheet" href="https://use.typekit.net/eep4xmq.css">
+
+For email
+<style>
+  @import url("https://use.typekit.net/eep4xmq.css");
+</style>
+
+Bilo Hairline
+
+font-family: bilo, sans-serif;
+
+font-weight: 100;
+
+font-style: normal;
+
+
+Bilo Hairline Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 100;
+
+font-style: italic;
+
+
+Bilo Thin
+
+font-family: bilo, sans-serif;
+
+font-weight: 100;
+
+font-style: normal;
+
+
+Bilo Thin Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 100;
+
+font-style: italic;
+
+
+Bilo ExtraLight
+
+font-family: bilo, sans-serif;
+
+font-weight: 200;
+
+font-style: normal;
+
+
+Bilo ExtraLight Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 200;
+
+font-style: italic;
+
+
+Bilo Light
+
+font-family: bilo, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+
+
+Bilo Light Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 300;
+
+font-style: italic;
+
+
+Bilo Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 400;
+
+font-style: italic;
+
+
+Bilo Regular
+
+font-family: bilo, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+Bilo Medium
+
+font-family: bilo, sans-serif;
+
+font-weight: 500;
+
+font-style: normal;
+
+
+Bilo Medium Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 500;
+
+font-style: italic;
+
+
+Bilo Bold
+
+font-family: bilo, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+
+
+Bilo Bold Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 700;
+
+font-style: italic;
+
+
+Bilo ExtraBold
+
+font-family: bilo, sans-serif;
+
+font-weight: 800;
+
+font-style: normal;
+
+
+Bilo ExtraBold Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 800;
+
+font-style: italic;
+
+
+Bilo Black
+
+font-family: bilo, sans-serif;
+
+font-weight: 900;
+
+font-style: normal;
+
+
+Bilo Black Italic
+
+font-family: bilo, sans-serif;
+
+font-weight: 900;
+
+font-style: italic;
+
+
+

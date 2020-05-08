@@ -1,0 +1,20 @@
+steps:
+  - name: 'gcr.io/$PROJECT_ID/cloud-builders/react'
+    args:
+      - --app-name=$_NAME
+      - --build-id=$SHORT_SHA
+  - name: 'gcr.io/$PROJECT_ID/cloud-builders/deploy'
+    args:
+      - --preset=react
+      - --app-name=$_NAME
+      - --build-id=$SHORT_SHA
+      - --branch=$BRANCH_NAME
+      - --tag=$TAG_NAME
+      - --external-subdomain=dxc
+      - --external-domain=mktg.run
+      - --external-path=/*
+      - --staging-external-subdomain=stage.dxc
+      - --staging-external-domain=mktg.run
+      - --staging-external-path=/*
+substitutions:
+  _NAME: dxc-launchpad
