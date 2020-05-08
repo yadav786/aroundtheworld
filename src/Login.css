@@ -1,0 +1,17 @@
+.slide1 {
+    background: url(./images/LoginPage-1.svg) no-repeat center;
+    height: 150px;
+    width: 150px;
+}
+
+.slide2 {
+    background: url(./images/LoginPage-2.svg) no-repeat center;
+    height: 150px;
+    width: 150px;
+}
+
+.slide3 {
+    background: url(./images/LoginPage-3.svg) no-repeat center;
+    height: 150px;
+    width: 150px;
+}

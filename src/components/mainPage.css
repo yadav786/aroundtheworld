@@ -1,0 +1,90 @@
+.iconn {
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+}
+.iconHome .iconn {
+    background: url(../images/home.svg) no-repeat center;
+}
+.iconHome:hover .iconn {
+    background: url(../images/home-active.svg) no-repeat center;
+}
+.iconPlanning .iconn {
+    background: url(../images/planning.svg) no-repeat center;
+}
+.iconPlanning:hover .iconn {
+    background: url(../images/planning-active.svg) no-repeat center;
+}
+.iconActivation .iconn {
+    background: url(../images/activation.svg) no-repeat center;
+}
+.iconActivation:hover .iconn {
+    background: url(../images/activation-active.svg) no-repeat center;
+}
+.iconMeasurement .iconn {
+    background: url(../images/measurement.svg) no-repeat center;
+}
+.iconMeasurement:hover .iconn {
+    background: url(../images/measurement-active.svg) no-repeat center;
+}
+.iconSettings .iconn {
+    background: url(../images/settings.svg) no-repeat center;
+}
+.iconSettings:hover .iconn {
+    background: url(../images/settings-active.svg) no-repeat center;
+}
+.iconSettingsActive {
+    background: #fff;
+    color: #861932 !important;
+    font-weight: bold;
+}
+.iconSettingsActive .iconn {
+    background: url(../images/settings-active.svg) no-repeat center;
+}
+.iconMeasurementActive {
+    background: #fff;
+    color: #861932 !important;
+    font-weight: bold;
+}
+.iconMeasurementActive .iconn {
+    background: url(../images/measurement-active.svg) no-repeat center;
+}
+.iconActivationActive {
+    background: #fff;
+    color: #861932 !important;
+    font-weight: bold;
+}
+.iconActivationActive .iconn {
+    background: url(../images/activation-active.svg) no-repeat center;
+}
+.iconPlanningActive {
+    background: #fff;
+    color: #861932 !important;
+    font-weight: bold;
+}
+.iconPlanningActive .iconn {
+    background: url(../images/planning-active.svg) no-repeat center;
+}
+.iconHomeActive {
+    background: #fff;
+    color: #861932 !important;
+    font-weight: bold;
+}
+.iconHomeActive .iconn {
+    background: url(../images/home-active.svg) no-repeat center;
+}
+.planningSubMenu {
+    margin-top: 12px !important;
+}
+.subNavList {
+    position: relative;
+}
+.subNavList:hover .planningSubMenu {
+    display: block;
+}
+.logo {
+    background: url(../images/logo.svg) no-repeat center;
+    width: 80px;
+    height: 60px;
+    display: inline-block;
+}
