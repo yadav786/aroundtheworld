@@ -43,7 +43,7 @@
     "@types/react-tap-event-plugin": "0.0.30",
     "@types/webpack-dev-server": "^3.10.1",
     "@types/webpack-env": "^1.15.2",
-    "axios": "^0.19.2",
+    "axios": "^1.8.2",
     "babel-loader": "^8.1.0",
     "chokidar": "^3.4.0",
     "copy-webpack-plugin": "^5.1.1",
